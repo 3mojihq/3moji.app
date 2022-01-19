@@ -1,5 +1,5 @@
 ---
 slug: metaverse
-title: Metaverse
+title: Metaverses
 featured: false
 ---
