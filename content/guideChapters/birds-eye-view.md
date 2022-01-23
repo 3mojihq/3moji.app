@@ -22,8 +22,6 @@ The attributes of the base layer are fixed and cannot be changed once the base l
 
 NOTE: The visual appearance of some attributes (such as hair colour and eye colour) can be altered by drops such as hair dye and eye lens respectively. 
 
-
-
 ## 🎩 Drops 
 
 Drops are tradeable add-ons that can augment the appearance and functionality of the base layer. For example, a drop of caps and beanies will only alter the appearance of the avatar but a drop of dance moves will allow your avatar to perform a special dance move.
@@ -44,44 +42,26 @@ All first-party 3moji drops are sold on the 3moji Marketplace powered by Meta Bl
 
 ## 👩🪄👸 Augmentation and Rendering
 
-
-
 Once you’ve minted a base layer and minted/purchased/acquired a drop, you’ll need to send both of them to Meta Blocks Smart Contract in order to augment the base layer. 
 
-
-
 The Meta Blocks rendering system will produce all the possible combinations of renders based on your base layer and the drops sent to the contract. 
-
-
 
 \[TODO: Add tutorial]
 
 ## 🛠 Use Cases
 
-
-
 ### PFP
 
-
-
-The go-to use case of 3moji is profile pictures. Unlike traditional NFTs where you’re stuck with the traits you have, 3moji allows you to upgrade and evolve your PFP with you over time. The identifying base layer does not change, so your 3moji avatar will be recognisable as YOUR 3moji, but you can upgrade its style over time. 
+The go-to use case of 3moji is profile pictures. Unlike traditional NFTs where you’re stuck with the traits you have, 3moji allows you to upgrade and evolve your PFP with you over time. The identifying base layer does not change, so your 3moji avatar will be recognizable as YOUR 3moji, but you can upgrade its style over time. 
 
 ### Stickers
 
+3moji allows you to own your virtual expression and express yourself in your day-to-day communications with a variety of stickers generated from the NFTs you own. Everyone’s 3moji stickers will be unique based on the combination of the base layer and the currently equipped drops. Some stickers are locked with drops, for example the following sticker only unlocks if you have wizard drop. 
 
-
-3moji allows you to own your virtual expression and express yourself in your day-to-day communications with a variety of stickers generated from the NFTs you own. Everyone’s 3moji stickers will be unique based on the combination of base layer and the currently equipped drops. Some stickers are locked with drops, for example the following sticker only unlocks if you have \[X] drop. 
-
-
-
-\[TODO: Insert example]. 
-
-
+\[TODO: Insert example]
 
 These stickers are akin to Apple’s Memoji in terms of functionality, and can be used on platforms like Telegram, Whatsapp, Chrome and more. Hence this brings real-world utility to your digital assets.  
 
 ### Live Avatars 
-
-
 
 3moji 3D models can be used as avatars in partner Metaverse and games as well as to record or present oneself on video calls. The motion and the facial expressions of the avatar are synced with that of the user using the camera.
