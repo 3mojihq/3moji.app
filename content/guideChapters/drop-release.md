@@ -16,4 +16,10 @@ For example:
 
 Once you possess a drop, you'll need to send it to the Meta Blocks Smart Contract to augment the base layer and generate a Meta NFT. A Meta NFT is a rendered NFT created from the NFTs that have been deposited in the Meta Blocks smart contract. 
 
+> Each time you deposit or withdraw and NFT to a universe, the meta NFT is modified to reflect the state of the universe.
+>
+> You might loose your NFTs stored in the escrow if you transfer this meta NFT to someone. (TODO: Confirm the implications).
+>
+> This meta NFT lets you visualise the combination of assets stored in the universe, right in your wallet. It also acts as an on-chain index, and removes the dependancy on the Indexing service, to read a user's state in a universe.
+
 3moji drops cannot be traded while being used, that is when they are locked in the Meta Blocks Smart Contract.
