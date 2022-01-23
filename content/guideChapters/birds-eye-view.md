@@ -56,11 +56,15 @@ The go-to use case of 3moji is profile pictures. Unlike traditional NFTs where y
 
 ### Stickers
 
-3moji allows you to own your virtual expression and express yourself in your day-to-day communications with a variety of stickers generated from the NFTs you own. Everyone’s 3moji stickers will be unique based on the combination of the base layer and the currently equipped drops. Some stickers are locked with drops, for example the following sticker only unlocks if you have wizard drop. 
+3moji allows you to own your virtual expression and express yourself in your day-to-day communications with a variety of stickers generated from the NFTs you own. Everyone’s 3moji stickers will be unique based on the combination of the base layer and the currently equipped drops. 
 
-\[TODO: Insert example]
+We've derived expression from the top 30 most used emojis and these stickers are available for all 3moji users.
 
-These stickers are akin to Apple’s Memoji in terms of functionality, and can be used on platforms like Telegram, Whatsapp, Chrome and more. Hence this brings real-world utility to your digital assets.  
+Some stickers are locked with associated drops, for example the following sticker only unlocks if you have a wizard hat. 
+
+![](/img/content/guide-chapters/mta2ode3nw.jpg)
+
+These stickers can be used on platforms like Telegram, Whatsapp, Chrome and more. Hence this brings real-world utility to your digital assets.  
 
 ### Live Avatars 
 
