@@ -1,9 +1,9 @@
 ---
 chapterNumber: 3
 emoji: 🦍
-title: "Integrating Existing NFT Projects with 3moji "
-slug: "integrating-existing-nft-projects-with-3moji "
-guideSlug: 3moji-guide
+title: "Integrating Existing NFT Projects with 3moji"
+slug: "integrating-existing-nft-projects-with-3moji"
+guideSlug: 3moji
 ---
 If you’re an established NFT project (post-mint phase), you can integrate your project into the 3moji universe to extend the utility and interoperability of your project. Holders of your NFTs can lock the original NFT in the Meta Blocks smart contract and receive a 3moji compatible version of the said NFT. 
 

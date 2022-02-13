@@ -3,7 +3,7 @@ chapterNumber: 2
 emoji: "💫 "
 title: Drop Release
 slug: drop-release
-guideSlug: 3moji-guide
+guideSlug: 3moji
 ---
 Accessories (known as “Drops”) can be minted, bought and traded by the users to augment their NFT. 
 

@@ -1,9 +1,9 @@
 ---
 chapterNumber: 4
 emoji: 👩🏼‍🎨
-title: "Creating accessories for 3moji Avatars "
-slug: "creating-accessories-for-3moji-avatars "
-guideSlug: 3moji-guide
+title: "Creating accessories for 3moji Avatars"
+slug: "creating-accessories-for-3moji-avatars"
+guideSlug: 3moji
 ---
 ## Overview
 

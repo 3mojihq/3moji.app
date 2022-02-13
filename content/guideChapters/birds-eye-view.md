@@ -3,7 +3,7 @@ chapterNumber: 1
 emoji: 🦉
 title: Bird’s Eye View
 slug: birds-eye-view
-guideSlug: 3moji-guide
+guideSlug: 3moji
 ---
 ## 👩‍🦲 Base Layers
 

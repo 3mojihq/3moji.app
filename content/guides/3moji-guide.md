@@ -1,7 +1,7 @@
 ---
 title: "3moji Guide "
-slug: 3moji-guide
-isPublished: false
+slug: 3moji
+isPublished: true
 emoji: "🦹‍♂️ "
 ---
 3moji is an **upgradeable, composable, interoperable, and adaptable NFT avatar** system on the Solana chain where third-party artists and designers can also create and sell their own merch as NFTs. 
